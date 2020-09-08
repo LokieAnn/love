@@ -1,0 +1,7 @@
+<uwsgi>
+	<socket>0.0.0.0:8080</socket>
+	<chdir>/love</chdir>
+	<module>love.wsgi</module>
+	<processes>1</processes>
+	<daemonize>uwsgi.log</daemonize>
+</uwsgi>
