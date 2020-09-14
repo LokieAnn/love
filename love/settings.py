@@ -26,7 +26,7 @@ SECRET_KEY = 'jpwjg9l(+_5m!+#kp@lp)h1r74nh2!)k72o07p(95c4k)7%uba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["baixuerui.我爱你"]
+ALLOWED_HOSTS = ["39.105.165.238"]
 
 
 # Application definition
